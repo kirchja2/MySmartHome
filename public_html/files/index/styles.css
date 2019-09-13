@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-26px;
-  width:379px;
+  width:527px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -57,8 +57,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:53px;
-  top:308px;
+  left:39px;
+  top:373px;
   width:352px;
   height:223px;
   display:flex;
@@ -71,6 +71,36 @@
   width:100%;
 }
 #u1_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:302px;
+  height:315px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:251px;
+  top:28px;
+  width:302px;
+  height:315px;
+  display:flex;
+}
+#u2 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
