@@ -118,7 +118,7 @@
   border-width:0px;
   position:absolute;
   left:227px;
-  top:65px;
+  top:69px;
   width:140px;
   height:78px;
   display:flex;
@@ -161,6 +161,36 @@
   width:100%;
 }
 #u4_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u5_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:184px;
+  height:125px;
+}
+#u5 {
+  border-width:0px;
+  position:absolute;
+  left:285px;
+  top:732px;
+  width:184px;
+  height:125px;
+  display:flex;
+}
+#u5 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u5_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
