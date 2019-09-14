@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-26px;
-  width:753px;
+  width:711px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -411,16 +411,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:740px;
-  height:444px;
+  width:595px;
+  height:357px;
 }
 #u13 {
   border-width:0px;
   position:absolute;
   left:39px;
-  top:2046px;
-  width:740px;
-  height:444px;
+  top:2055px;
+  width:595px;
+  height:357px;
   display:flex;
 }
 #u13 .text {
