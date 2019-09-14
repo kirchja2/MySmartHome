@@ -406,3 +406,33 @@
   text-transform:none;
   visibility:hidden;
 }
+#u13_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:189px;
+  height:267px;
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:39px;
+  top:2056px;
+  width:189px;
+  height:267px;
+  display:flex;
+}
+#u13 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u13_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
